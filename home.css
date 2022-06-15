@@ -1,3 +1,10 @@
+#coupon{
+    margin-top:12%;
+    margin-left: 27%;
+    z-index: 100;
+    visibility: hidden;
+}
+
 .navbar{
     margin-top:-33%;
     height:65px;
